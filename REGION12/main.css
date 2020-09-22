@@ -1,0 +1,22 @@
+li{
+	display:inline;
+	text-decoration:none;
+	color:white;
+}
+
+ul{
+	background-color:black;
+	padding:20px;
+}
+li a{
+	text-decoration:none;
+	color:white;
+	text-align:center;
+	padding:14px 16px;
+}
+ li a:hover{
+		background-color:grey;
+		padding:20px;
+		border-right:2px solid white;
+		text-align:center;
+}
